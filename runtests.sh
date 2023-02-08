@@ -26,7 +26,7 @@ check_state
 
 # initiate testing sequence for Lab 2
 cd /home/ubuntu
-git clone https://gitlab.com/lsimpson762/virt-workshop-testing.git
+git clone https://github.com/berkinkartal/virt-workshop-testing.git
 
 #reset leaf01 and leaf02 to post Lab 2 setup
 cd /home/ubuntu/virt-workshop-testing
